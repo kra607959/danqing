@@ -1,0 +1,15 @@
+{
+  "name": "danqing",
+  "private": true,
+  "type": "module",
+  "description": "《纸上文明》：M0 识别样机 + M1 部落白盒（族人模拟、号令、图纸、机器人过关测试）",
+  "scripts": {
+    "serve": "node serve.mjs",
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "train": "node tools/train.mjs",
+    "check": "node tools/glyphcheck.mjs",
+    "sheet": "node tools/sheet.mjs",
+    "tune": "node tools/tune.mjs",
+    "sim": "node tools/sim.mjs"
+  }
+}

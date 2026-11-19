@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="256" viewBox="0 0 680 256" role="img">
+<title>同一组涂鸦在三个时代的画法</title>
+<desc>左：石壁上的赭红指画；中：宣纸水墨；右：蓝图白线。三格是同一组笔画：一棵结果的树、一间有门的屋、一堆火、两个火柴人（一个举手、一个持矛）和一弯月亮。</desc>
+<defs>
+<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#2f62a3" stroke-width=".6"/></pattern>
+<g id="sc" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M160 16A14 14 0 0 0 160 44A20 20 0 0 1 160 16Z"/>
+<path d="M30 140V96M30 112L22 104"/>
+<path d="M16 94C5 90 7 72 17 70C17 57 34 53 40 62C51 58 57 73 48 80C56 89 45 98 37 94C32 101 21 100 16 94Z"/>
+<path d="M56 140V112H90V140M51 114L73 92L95 114M68 140V126H78V140"/>
+<path d="M101 141L125 133M101 133L125 141M106 133C101 124 110 119 107 109M113 133C108 121 120 114 114 99M120 133C125 123 116 118 122 111"/>
+<circle cx="141" cy="100" r="6"/>
+<path d="M141 106V124M141 110L132 104L130 95M141 110L150 104L152 95M141 124L134 131L134 140M141 124L148 131L148 140"/>
+<circle cx="167" cy="100" r="6"/>
+<path d="M167 106V124M167 110L160 118M167 110L177 113M167 124L162 140M167 124L172 140M178 143V84M174.5 91L178 80L181.5 91"/>
+<g fill="currentColor" stroke="none"><circle cx="24" cy="78" r="2.6"/><circle cx="36" cy="72" r="2.6"/><circle cx="38" cy="86" r="2.6"/><circle cx="143" cy="99" r="1.3"/><circle cx="169" cy="99" r="1.3"/></g>
+</g>
+</defs>
+<rect x="40" y="30" width="188" height="160" rx="4" fill="#d6c3a0"/>
+<ellipse cx="96" cy="74" rx="44" ry="18" fill="#cbb48d" opacity=".6"/>
+<ellipse cx="186" cy="166" rx="40" ry="14" fill="#c8af86" opacity=".55"/>
+<ellipse cx="74" cy="168" rx="28" ry="10" fill="#ddcbab"/>
+<path d="M118 30L124 50L119 68M196 124L210 134L226 130" fill="none" stroke="#b39c76" stroke-width=".8"/>
+<use href="#sc" x="40" y="30" color="#9c3b26" stroke-width="4.6" opacity=".9"/>
+<use href="#sc" x="40.9" y="30.7" color="#c2694a" stroke-width="1.5" opacity=".5"/>
+<rect x="246" y="30" width="188" height="160" rx="4" fill="#f3ebd8"/>
+<path d="M252 58H330M300 96H420M258 150H340M360 182H428" fill="none" stroke="#e6dbc3" stroke-width=".7"/>
+<path d="M254 171C300 167 362 174 428 169" fill="none" stroke="#d3c8b1" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+<use href="#sc" x="246" y="30" color="#6f675a" stroke-width="6" opacity=".16"/>
+<use href="#sc" x="246" y="30" color="#1f1b17" stroke-width="2.6"/>
+<rect x="252" y="176" width="9" height="9" rx="1" fill="#b3322a"/>
+<path d="M254.5 178.5h4v4h-4z" fill="none" stroke="#f3ebd8" stroke-width=".9"/>
+<rect x="452" y="30" width="188" height="160" rx="4" fill="#1d4c8a"/>
+<rect x="452" y="30" width="188" height="160" rx="4" fill="url(#grid)"/>
+<path d="M458 170H634" fill="none" stroke="#8fb2e0" stroke-width=".8" stroke-dasharray="4 3"/>
+<path d="M508 181H542M508 177V185M542 177V185" fill="none" stroke="#9cc0ee" stroke-width=".7"/>
+<circle cx="593" cy="130" r="10" fill="none" stroke="#9cc0ee" stroke-width=".6" stroke-dasharray="2 2"/>
+<use href="#sc" x="452" y="30" color="#eef4ff" stroke-width="1.3"/>
+<g font-family="sans-serif" text-anchor="middle">
+<text x="134" y="214" font-size="14" font-weight="500" fill="#3d3a35">第一代 · 岩画</text>
+<text x="134" y="232" font-size="12" fill="#77736b">赭石指画</text>
+<text x="340" y="214" font-size="14" font-weight="500" fill="#3d3a35">第四代 · 纸墨</text>
+<text x="340" y="232" font-size="12" fill="#77736b">水墨笔锋</text>
+<text x="546" y="214" font-size="14" font-weight="500" fill="#3d3a35">第五代 · 蓝图</text>
+<text x="546" y="232" font-size="12" fill="#77736b">白线与尺寸</text>
+</g>
+</svg>
